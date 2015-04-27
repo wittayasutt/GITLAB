@@ -5,6 +5,6 @@ int main()
 {   int a;
     printf("Welcome to my world!\n");
     printf("My name is wittayasutt, I'm User A.\n");
-    printf("fixed\n");
+    printf("fagxed\n");
     return 0;
 }
